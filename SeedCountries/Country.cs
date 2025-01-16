@@ -17,6 +17,7 @@ namespace SeedCountries
         public List<State> States { get; set; } = new List<State>();
     }
 
+
     public class State
     {
         public string Name { get; set; }
